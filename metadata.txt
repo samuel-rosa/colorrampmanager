@@ -12,6 +12,7 @@
 name=Color Ramp Manager
 qgisMinimumVersion=2.0
 description=plugin to manage and download color ramp definitions
+description[pt]=Complemento para gerenciar e descarregar definições de rampa de cor
 version=0.3.0
 
 # end of mandatory metadata
